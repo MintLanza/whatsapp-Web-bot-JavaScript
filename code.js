@@ -10,6 +10,7 @@
       creado por: rrjo
     
          ++ github: rrjo-0 ++
+         + new github llogc+
 
     Gracias por verme o usarme!!!!
 
