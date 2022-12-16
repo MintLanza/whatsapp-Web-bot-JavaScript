@@ -1,25 +1,15 @@
-
 /*
-           _____    
-          / ___ \  
-         / /__/ | ____  
-        / __  _/'/    \+ +
-       / /  \ \ | |||. |+  +
-   + +/_/ + /_/+'\____/' + +
-    + +++  +   ++  +  + ++  +
-      creado por: rrjo
-    
-         ++ github: rrjo-0 ++
-         + new github llogc+
+        ..
+   ::7777/    .   \\
+    7*777777\     77777s\          creado por @MintLanza
+       77*777777/ /7777_777/s/      
+        7*7777777777s/''  '           github: https://github.com/MintLanza
+        /7777777s  ______               creado por: ian
+       /7777s       s77iP           programacion en lenguage: c++ >:/
+       \77777777///77ii/            
+         \777777777                 
 
-    Gracias por verme o usarme!!!!
-
-
-me pase de pedo, parte en ingles y otras en español con mala ortografia xd
- (soy nuevo en esta plataforma)
 */
-
-console.log("           _____    \n          / ___ \  \n         / /__/ | ____  \n        / __  _/'/    \+ +\n       / /  \ \ | |||. |+  +\n   + +/_/ + /_/+'\____/' + +\n    + +++  +   ++  +  + ++  +\n      creado por: rrjo\n         ++ github: rrjo-0 ++\n\n    Gracias por usarme!!!!\n\n");
 
 var ChatUser = "ChatUser";
 var ChatGroup = "ChatGroup";
