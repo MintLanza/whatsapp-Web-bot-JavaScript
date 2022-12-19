@@ -7,7 +7,11 @@
         /7777777s  ______               creado por: ian
        /7777s       s77iP           programacion en lenguage: c++ >:/
        \77777777///77ii/            
-         \777777777                 
+         \777777777        
+         
+         Creacion de bot para WhatsappWeb
+         
+         Error codigo DOM, consola javascript, porfavor ayudeme con esta nueva actualzacion de whatsapp web
 
 */
 
